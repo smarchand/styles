@@ -2,12 +2,15 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" default-locale="fr-FR" version="1.0"
   page-range-format="expanded" demote-non-dropping-particle="sort-only">
   <info>
-    <title>Centre d'ingiénerie Documentaire, ENS de Lyon (French)</title>
+    <title>ENS de Lyon - Centre d'ingénierie documentaire (French)</title>
     <title-short>CID</title-short>
-    <id>http://www.zotero.org/styles/cid-ens-de-lyon</id>
+
+    <id>http://www.zotero.org/styles/ens-de-lyon-centre-d-ingenierie-documentaire</id>
     <link href="http://www.zotero.org/styles/cid-ens-de-lyon" rel="self"/>
     <link href="http://www.zotero.org/styles/presses-universitaires-de-rennes" rel="template"/>
     <updated>2014-11-26T22:29:03+00:00</updated>
+
+ <link href="http://cid.ens-lyon.fr/aide/documents/zotero_cid.pdf" rel="documentation"/>
 
     <author>
       <name>Stéphane Marchand</name>
@@ -20,7 +23,8 @@
     </contributor>
     <category citation-format="note"/>
     <category field="social_science"/>
-    <category field="generic-base"/>
+    <category field="philosophy"/>
+    <category field="literature"/>
 
       <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
       
