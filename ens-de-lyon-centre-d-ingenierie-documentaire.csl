@@ -189,11 +189,6 @@
           <date variable="issued">
             <date-part name="year" suffix=", "/>
           </date>
-          <group>
-            <text term="volume" form="short" suffix="."/>
-            <text variable="number-of-volumes" prefix=". " suffix="/"/>
-            <text variable="volume" suffix=","/>
-          </group>
           <choose>
             <if variable="locator" match="any">
               <text variable="locator" prefix="p.&#160;"/>
@@ -379,6 +374,7 @@
         <text macro="collection"/>
         <text macro="yearpage"/>
         <text variable="note"/>
+        <text variable="URL" text-decoration="underline"/>
       </group>
     </layout>
   </bibliography>
